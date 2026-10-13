@@ -1,0 +1,7 @@
+# Data files - never push captured logs or traffic
+*.log
+*.pcap
+
+# Python cache
+__pycache__/
+*.pyc
